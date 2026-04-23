@@ -1,29 +1,63 @@
-### Hi there 👋, I'm Renan
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=RENAN+CALIFANI;Software+Engineering;Full+Stack++|++Sec++|++AI" alt="Typing SVG" />
+</h1>
 
-I'm a Software Engineering student focused on building efficient, secure, and modern web applications. Currently based in Italy, I'm passionate about full-stack development, and I'm always exploring the intersection between web technologies, cybersecurity, and AI automation.
+<p align="center"><b>Software Engineering Student @ DNC | Based in Italy</b></p>
+<p align="center"><i>Focused on building secure, scalable, and AI-automated web solutions.</i></p>
 
-## 🚀 About Me
-- 💻 Studying Software Engineering at DNC.
-- 🧠 Exploring AI automation agents and SaaS architectures.
-- 🔐 Enthusiast in Cybersecurity and ethical hacking (Kali Linux, network analysis).
-- ⚡ Fun fact: I balance my coding sessions with playing online poker.
+---
 
-## 🛠️ Tech Stack
-**Frontend & Frameworks:**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🛠️ Tech Stack & Competencies
 
-**Tools & Ecosystem:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Core Development</h3>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>Sec & Automation</h3>
+      <img src="https://img.shields.io/badge/Cybersecurity-🛡️-red?style=flat-square" alt="Cybersecurity Focus" />
+      <img src="https://img.shields.io/badge/Ethical_Hacking-🕵️-black?style=flat-square" alt="Ethical Hacking Focus" />
+      <br>
+      <img src="https://img.shields.io/badge/AI_Automation-🤖-purple?style=flat-square" alt="AI Automation Focus" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>Tools & DevOps</h3>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali" />
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Stats
-[![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanCalifani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCalifani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## 📫 Connect with me
-![LinkedIn](https://www.linkedin.com/in/renan-califani-985b58212/?locale=pt)
-![Instagram](https://www.instagram.com/dev.califa/)
+## 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenanCalifani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Renan's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCalifani&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+## 📡 Contact & Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/renan-califani-985b58212/?locale=pt" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:califanidev2026@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+<p align="right"><i>"The code is the core."</i></p>
+
