@@ -25,5 +25,5 @@ I'm a Software Engineering student focused on building efficient, secure, and mo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCalifani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/renan-califani-985b58212/?locale=pt)
-[![Instagram](https://www.instagram.com/dev.califa/)
+![LinkedIn](https://www.linkedin.com/in/renan-califani-985b58212/?locale=pt)
+![Instagram](https://www.instagram.com/dev.califa/)
