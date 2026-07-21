@@ -41,10 +41,13 @@
 
 
 ### 📊 Engineering Metrics
+<!-- Engineering Metrics -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanCalifani&theme=dark" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-two.vercel.app/api?username=RenanCalifani&show_icons=true&theme=dark" alt="Renan's GitHub Stats" />
-  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=RenanCalifani&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/chat?username=RenanCalifani&theme=2077" alt="Top Languages" />
 </p>
 
 ---
