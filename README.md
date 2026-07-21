@@ -39,11 +39,12 @@
 
 ---
 
-## 📊 Engineering Metrics
+
+### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanCalifani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Renan's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCalifani&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats-two.vercel.app/api?username=RenanCalifani&show_icons=true&theme=dark" alt="Renan's GitHub Stats" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=RenanCalifani&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
